@@ -12,7 +12,7 @@
 |    8    | O cliente deve possuir:  Nome, E-mail, Telefone, CPF, RG e Endereço                     |   ✔    |
 |    9    | O projeto deve conter sistema de  cadastramento                                         |        |
 
-
+### Sugestão de site para o [Desafio do Selenium](https://www.c-sharpcorner.com/ebooks/)
 
 * TERMINAL ECLIPSE 
 
